@@ -1,6 +1,7 @@
 # Gaussian-elimination
 
 ### References:
+* https://en.wikipedia.org/wiki/Gaussian_elimination
 * https://courses.engr.illinois.edu/cs357/su2013/lectures/lecture07.pdf
 * https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-2-elimination-with-matrices/
 * https://introcs.cs.princeton.edu/java/95linear/GaussianElimination.java
