@@ -6,4 +6,3 @@
 * https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-2-elimination-with-matrices/
 * https://introcs.cs.princeton.edu/java/95linear/GaussianElimination.java
 * https://algs4.cs.princeton.edu/code/javadoc/edu/princeton/cs/algs4/GaussianElimination.html
-* https://vanderbei.princeton.edu/201/lab8/lab8.pdf
